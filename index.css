@@ -1,0 +1,20 @@
+
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+}
+
+.row{
+    width: 300px;
+    display: flex;
+}
+
+.cell{
+    width: 100px;
+    height: 100px;
+    border: black 1px solid;
+    box-sizing: border-box;
+}
